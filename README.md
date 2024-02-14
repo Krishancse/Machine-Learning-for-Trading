@@ -2,6 +2,7 @@
 **Machine Learning for Trading**
 
 Welcome to the Machine Learning for Trading repository! This repository contains implementations of machine learning algorithms and techniques applied to the domain of financial trading. Whether you're a beginner or an expert in machine learning and trading, this repository aims to provide valuable resources, tools, and insights to help you explore the intersection of these two fascinating fields.
+![image](https://github.com/Krishancse/Machine-Learning-for-Trading/assets/97558810/2b04eb83-9208-4ccd-b551-2f3cf0924943)
 
 ## Table of Contents
 1. [Introduction](#introduction)
