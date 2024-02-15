@@ -32,7 +32,7 @@ To get started with Machine Learning for Trading, follow these steps:
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/yourusername/Machine-Learning-for-Trading.git
+   git clone https://github.com/Krishancse/Machine-Learning-for-Trading.git
    ```
 
 2. Install the required dependencies. We recommend using a virtual environment to manage dependencies:
