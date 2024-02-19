@@ -1,5 +1,6 @@
 # Machine-Learning-for-Trading:
-**Machine Learning for Trading**
+
+
 <h1 align="center">Hi 👋, I'm Krishan kant</h1>
 <h3 align="center">i am quantitative trader and researcher asspirant</h3>
 
