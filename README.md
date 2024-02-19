@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Krishancse](https://github.com/Krishancse)
 
-- 💬 Ask me about **ai, ml ,dl ,data science and quantitative trading and research**
+- 💬 Ask me about **ai, ml ,dl ,data science and quantitative trading and research in finance **
 
 - 📫 How to reach me **kantkrishan0205@gmail.com**
 
