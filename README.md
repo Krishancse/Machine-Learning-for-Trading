@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Krishan kant</h1>
-<h3 align="center">i am quantitative trader and researcher asspirant</h3>
+<h3 align="center">i am quantitative trader and researcher </h3>
 
 - currently working in quantitative trader and researcher [Machine-Learning-for-Trading](https://github.com/Krishancse/Machine-Learning-for-Trading)
 
